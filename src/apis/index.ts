@@ -1,3 +1,3 @@
 /* tslint:disable */
 /* eslint-disable */
-export * from './ClientApi';
+export * from './TTXApi';

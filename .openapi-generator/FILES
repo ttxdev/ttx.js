@@ -2,7 +2,7 @@
 .npmignore
 README.md
 package.json
-src/apis/ClientApi.ts
+src/apis/TTXApi.ts
 src/apis/index.ts
 src/index.ts
 src/models/CreateTransactionDto.ts

@@ -125,7 +125,7 @@ export interface TwitchCallbackRequest {
 /**
  * 
  */
-export class ClientApi extends runtime.BaseAPI {
+export class TTXApi extends runtime.BaseAPI {
 
     /**
      */
