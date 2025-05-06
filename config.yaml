@@ -1,0 +1,13 @@
+generatorName: typescript-fetch
+inputSpec: https://api.ttx.gg/swagger/v1/swagger.json
+outputDir: .
+gitHost: github.com
+gitUserId: ttxdev
+gitRepoId: ttx.js
+licenseName: AGPL-3.0
+npmName: "@ttxdev/ttx"
+npmRepository: "https://github.com/ttxdev/ttx.js"
+npmVersion: 1.0.0
+openapiNormalizer:
+  SET_TAGS_FOR_ALL_OPERATIONS: Client
+
