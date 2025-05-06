@@ -19,5 +19,8 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.7"
   }
 }
